@@ -1,0 +1,13 @@
+pandas
+
+pandas
+transformers 
+sentence-transformers
+faiss-cpu
+torch
+accelerate
+bitsandbytes
+langchain
+langgraph
+chromadb
+scikit-learn
